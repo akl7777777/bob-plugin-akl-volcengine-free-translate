@@ -1,0 +1,27 @@
+{
+    "identifier": "com.akl.bob-plugin-akl-volcengine-free-translate",
+    "version": "0.0.1",
+    "category": "translate",
+    "name": "Free 火山翻译",
+    "summary": "免token调用火山",
+    "icon": "icon.png",
+    "author": "akl7777777 <akl7777777@163.com>",
+    "homepage": "https://github.com/akl7777777/bob-plugin-akl-volcengine-free-translate",
+    "appcast": "https://raw.githubusercontent.com/akl7777777/bob-plugin-akl-volcengine-free-translate/main/appcast.json",
+    "minBobVersion": "0.5.0",
+    "options": [
+        {
+            "identifier": "desc",
+            "type": "menu",
+            "title": "描述",
+            "defaultValue": "akl7777777",
+            "menuValues": [
+              {
+                "title": "免费调用火山翻译;无需token;无需key;",
+                "value": "akl7777777"
+              }
+            ],
+            "desc":"小芍同学免费调用火山翻译;无需token;无需key;"
+        }
+    ]
+}
