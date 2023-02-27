@@ -5,6 +5,8 @@ bob插件主要为bob用户开发,bob是一款macOS上的翻译软件,bob官网�
 
 下载地址:[bob-plugin-akl-volcengine-free-translate_v0.0.1.bobplugin](https://github.com/akl7777777/bob-plugin-akl-volcengine-free-translate/releases/download/v_0.0.1/bob-plugin-akl-volcengine-free-translate_v0.0.1.bobplugin)
 
+使用方法:双击安装,直接使用
+
 ### bob翻译插件大合集:
 
 >[DeepL翻译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-deepl-free-translate)
@@ -13,11 +15,14 @@ bob插件主要为bob用户开发,bob是一款macOS上的翻译软件,bob官网�
 
 >[火山翻译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-volcengine-free-translate)
 
+>[腾讯翻译君插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-tencent-free-translate/releases/download/v_0.0.1/bob-plugin-akl-tencent-free-translate_v0.0.1.bobplugin)
+
 >[百度翻译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-baidu-free-translate)
 
 >[彩云小译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-caiyunxiaoyi-free-translate)
 
 >[只为日语 - MOJi辞書（じしょ）](https://github.com/akl7777777/bob-plugin-akl-mojidict-translate)
+
 
 效果图如下:
 
