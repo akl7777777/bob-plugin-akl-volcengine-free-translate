@@ -7,8 +7,12 @@ bob插件主要为bob用户开发,bob是一款macOS上的翻译软件,bob官网�
 
 使用方法:双击安装,直接使用
 
+### 友情链接==>ChatGPT免费桌面版客户端(支持Windows,macOS)
+下载地址:[OpenAI-ChatGPT免费桌面版客户端](https://github.com/akl7777777/free-chatgpt-client-pub)
+
 ### bob翻译插件大合集:
 
+>[OpenAI ChatGPT(免秘钥)插件](https://github.com/akl7777777/bob-plugin-akl-chatgpt-free-translate)
 
 >[DeepL翻译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-deepl-free-translate)
 
@@ -33,6 +37,7 @@ bob插件主要为bob用户开发,bob是一款macOS上的翻译软件,bob官网�
 >[Bob翻译剪切板图片的AlfredWorkflow](https://github.com/akl7777777/BobTranslateClipboard)
 
 >[Bob的Postman接口调试插件](https://github.com/akl7777777/bob-plugin-akl-postman)
+
 
 效果图如下:
 
