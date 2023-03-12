@@ -1,12 +1,19 @@
 {
-    "identifier": "com.akl.bob-plugin-akl-volcengine-free-translate",
-    "versions": [
-        {
-            "version": "0.0.1",
-            "desc": "初始版本",
-            "sha256": "707a182923f7c6630a4d8a6afecb197ab1ceb7cf91b23ff552e9b0b32571f44f",
-            "url": "https://github.com/akl7777777/bob-plugin-akl-volcengine-free-translate/releases/download/v_0.0.1/bob-plugin-akl-volcengine-free-translate_v0.0.1.bobplugin",
-            "minBobVersion": "0.5.0"
-        }
-    ]
+  "identifier": "com.akl.bob-plugin-akl-volcengine-free-translate",
+  "versions": [
+    {
+      "version": "0.0.2",
+      "desc": "bug fixes",
+      "sha256": "8b724ddf805d68f4dac3d06a703820bd93ec16bafa46d106f22504dff0595876",
+      "url": "https://github.com/akl7777777/bob-plugin-akl-volcengine-free-translate/releases/download/v0.0.2/bob-plugin-akl-volcengine-free-translate_v0.0.2.bobplugin",
+      "minBobVersion": "0.5.0"
+    },
+    {
+      "version": "0.0.1",
+      "desc": "初始版本",
+      "sha256": "707a182923f7c6630a4d8a6afecb197ab1ceb7cf91b23ff552e9b0b32571f44f",
+      "url": "https://github.com/akl7777777/bob-plugin-akl-volcengine-free-translate/releases/download/v_0.0.1/bob-plugin-akl-volcengine-free-translate_v0.0.1.bobplugin",
+      "minBobVersion": "0.5.0"
+    }
+  ]
 }
