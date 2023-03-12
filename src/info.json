@@ -1,6 +1,6 @@
 {
     "identifier": "com.akl.bob-plugin-akl-volcengine-free-translate",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "category": "translate",
     "name": "Free 火山翻译",
     "summary": "免token调用火山",
