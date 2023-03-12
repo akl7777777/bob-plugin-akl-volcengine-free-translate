@@ -3,7 +3,7 @@
 
 bob插件主要为bob用户开发,bob是一款macOS上的翻译软件,bob官网地址:https://bobtranslate.com/
 
-下载地址:[bob-plugin-akl-volcengine-free-translate_v0.0.1.bobplugin](https://github.com/akl7777777/bob-plugin-akl-volcengine-free-translate/releases/download/v_0.0.1/bob-plugin-akl-volcengine-free-translate_v0.0.1.bobplugin)
+下载地址:[火山翻译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-volcengine-free-translate/releases/download/v0.0.2/bob-plugin-akl-volcengine-free-translate_v0.0.2.bobplugin)
 
 使用方法:双击安装,直接使用
 
